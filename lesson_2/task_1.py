@@ -10,7 +10,7 @@ while n != '0':
         x = float(input('Введите первое число: '))
         y = float(input('Введите второе число: '))
         if n == '/':
-            if x != 0 and y != 0:
+            if y != 0:
                 n = x / y
                 print(n)
                 n = ''
