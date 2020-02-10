@@ -1,4 +1,4 @@
-# task_3
+# task_2
 # array with length 2m + 1 find median which separate him by 2 halfs where
 # in one array elements lesser than median and other array
 # with numbers bigger
