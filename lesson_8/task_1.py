@@ -20,7 +20,7 @@ def substring_counter(text):
 def task_1_launcher():
     text = input('Please, enter any kind of text, you can use a different '
                  'symbols: ')
-    print(f' {substring_counter(text)}')
+    return substring_counter(text)
 
 
 task_1_launcher()
